@@ -8,5 +8,6 @@
   "ensure_newline_at_eof_on_save": true,
   "highlight_modified_tabs": true,
   "show_encoding": true,
-  "show_line_endings": true
+  "show_line_endings": true,
+  "word_wrap": true
 }
