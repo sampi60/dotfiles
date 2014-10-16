@@ -1,4 +1,11 @@
 [user]
 	name = Piotr Sampławski
+ 	email = sampi60@gmail.com
 [color]
 	ui = true
+[color "status"]
+	header  = normal
+	added = green
+	untracked = red
+	nobranch = red
+	branch = red bold
