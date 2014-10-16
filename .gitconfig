@@ -1,6 +1,8 @@
 [user]
 	name = Piotr Sampławski
- 	email = sampi60@gmail.com
+	email = sampi60@gmail.com
+[push]
+	default = simple
 [color]
 	ui = true
 [color "status"]
