@@ -2,7 +2,7 @@
 	name = Piotr Sampławski
 	email = sampi60@gmail.com
 [push]
-	default = simple
+	default = current
 [color]
 	ui = true
 [color "status"]
