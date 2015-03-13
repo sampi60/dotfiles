@@ -12,3 +12,6 @@ alias grevert='git reset --soft HEAD~1'
 
 # gem pry
 alias pryr='pry -r ./config/environment'
+
+# rvm
+alias rgl='rvm gemset list'
